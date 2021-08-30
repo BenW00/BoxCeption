@@ -1,0 +1,59 @@
+body {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+html {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+#box3 {
+    width: 500px;
+    height: 500px;
+    border: 3px solid black;
+    background-color: red;
+    margin: 100px auto;
+}
+
+#box2 {
+    border: 3px solid black;
+    background-color: blue;
+    margin: 100px;
+}
+
+#box1 {
+    width: 100px;
+    height: 100px;
+    border: 3px solid black;
+    background-color: white;
+    margin: 100px;
+}
+
+/* BONUS */
+#table1 {
+border: 3px solid black;
+margin: 100px auto;
+}
+tr td {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    margin: 100px;
+}
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+#WhiteSquare {
+    border: 3px solid black;
+}
